@@ -1,0 +1,36 @@
+.pic_div{
+    width:100vw;
+    height: 516px;
+    background-image: url("../assets/image.jpg");
+    background-size: cover;
+}
+
+.pic_text{
+    color:#fff;
+    width: 560px;
+    height: auto;
+    font-size: 1.5rem;
+    padding: 80px;
+}
+
+.text_contain{
+    padding-top:20px;
+}
+
+.items{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 1.2rem;
+}
+
+.item_list{
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.items > h2{
+    padding-bottom: 40px;
+}
+.item_list span{
+   font-size: 3rem;
+}

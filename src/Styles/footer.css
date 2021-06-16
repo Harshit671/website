@@ -1,0 +1,43 @@
+.footer_container{
+  background-color: rgb(233, 233, 248,0.5);
+}
+
+.footer_content{
+    width: 80vw;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer_content p{
+    padding: 16px;
+}
+
+.footer_end{
+    display: flex;
+    justify-content: space-between;
+    width: 80vw;
+    margin: auto;
+    font-size: small;
+}
+
+ul {
+    display: flex;
+}
+
+ul li {
+    padding-right:20px
+}
+.footer_endright span{
+    color:grey;
+    margin-left: 15px;
+    
+}
+
+select#cars {
+    border: none;
+    outline: hidden;
+}
+span{
+    padding:3px;
+}

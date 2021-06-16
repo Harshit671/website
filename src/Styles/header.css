@@ -1,0 +1,27 @@
+
+.header_inner{
+    width:100vw;
+    height:auto;
+    background-color: rgb(8, 44, 77);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    padding:10px;
+}
+
+.header_left > a{
+    padding:5px 20px 5px 5px;
+    margin:auto;
+    font-size: larger;
+}
+
+.header_left{
+    display: flex;
+    justify-content: flex-start;
+}
+
+button{
+    padding: 10px;
+    border-radius: 10px;
+}
